@@ -1,7 +1,7 @@
 package com.sparta.springhanghae.service;
 
 import com.sparta.springhanghae.domain.Memo;
-import com.sparta.springhanghae.domain.MemoRepository;
+import com.sparta.springhanghae.repository.MemoRepository;
 import com.sparta.springhanghae.domain.MemoRequestDto;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
